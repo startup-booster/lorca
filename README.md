@@ -1,5 +1,7 @@
 # Lorca
 
+This is based on https://github.com/zserge/lorca with minor tweaks. See the docs for the original lib.
+
 [![Build Status](https://img.shields.io/github/workflow/status/zserge/lorca/CI%20Pipeline)](https://github.com/zserge/lorca)
 [![GoDoc](https://godoc.org/github.com/zserge/lorca?status.svg)](https://godoc.org/github.com/zserge/lorca)
 [![Go Report Card](https://goreportcard.com/badge/github.com/zserge/lorca)](https://goreportcard.com/report/github.com/zserge/lorca)
@@ -98,4 +100,3 @@ project with a similar goal for Node.js.
 
 Code is distributed under MIT license, feel free to use it in your proprietary
 projects as well.
-
